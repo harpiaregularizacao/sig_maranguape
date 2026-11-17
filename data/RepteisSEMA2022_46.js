@@ -1,0 +1,1 @@
+var json_RepteisSEMA2022_46 = {"type":"FeatureCollection","name":"RepteisSEMA2022_46","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

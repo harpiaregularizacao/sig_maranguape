@@ -1,0 +1,1 @@
+var json_LinhasdeTransmissoExistenteSIN2020_15 = {"type":"FeatureCollection","name":"LinhasdeTransmissoExistenteSIN2020_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

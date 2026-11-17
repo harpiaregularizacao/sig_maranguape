@@ -1,0 +1,1 @@
+var json_AutodeInfracaoSEMACE20192024_9 = {"type":"FeatureCollection","name":"AutodeInfracaoSEMACE20192024_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

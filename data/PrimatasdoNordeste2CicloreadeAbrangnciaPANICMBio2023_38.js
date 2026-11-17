@@ -1,0 +1,1 @@
+var json_PrimatasdoNordeste2CicloreadeAbrangnciaPANICMBio2023_38 = {"type":"FeatureCollection","name":"PrimatasdoNordeste2CicloreadeAbrangnciaPANICMBio2023_38","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
